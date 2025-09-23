@@ -13,6 +13,7 @@ With this project I was able to combine my interest in electronics, programming,
 ---
 
 ### 📸 Results
+#### Wiring:
 ![Wiring:](1CE89122-FC66-41A6-9A79-965C7769BC8C_1_201_a.jpeg)  
-
+#### Front View:
 ![Front View:](7D90E484-4EE7-4CEF-AFF4-E43587C744B2_1_201_a.jpg)
