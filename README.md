@@ -1,6 +1,6 @@
 # 🏓 Electronic Table Tennis Scoreboard  
 
-I wanted to address the constant problem of inconsistent table tennis scoring methods, often leading to arguments, score loss, or even just cheating.
+I wanted to address the constant problem I had with inconsistent table tennis scoring methods, often leading to arguments, score loss, or even just cheating.
 With this project I was able to combine my interest in electronics, programming, and design to create a reliable solution for fair table tennis scorekeeping.
 
 ---
